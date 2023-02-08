@@ -1,5 +1,6 @@
 import './style.css';
 import project01 from './../../img/projects/01.jpg';
+import React from 'react';
 
 const Project = ({title, img}) => {
     return (
